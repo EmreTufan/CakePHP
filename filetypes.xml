@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*-*.ctp" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="porfileSettings.ctp" type="PLAIN_TEXT" />
       <mapping pattern="profile-box.ctp" type="PLAIN_TEXT" />
