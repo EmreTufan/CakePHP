@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*-*.ctp" type="PHP" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="list_lesson.ctp" type="PLAIN_TEXT" />
       <mapping pattern="porfileSettings.ctp" type="PLAIN_TEXT" />
       <mapping pattern="profile-box.ctp" type="PLAIN_TEXT" />
     </extensionMap>
