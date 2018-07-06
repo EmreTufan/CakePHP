@@ -1,8 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0cce918e-47de-4db0-bc4c-39c48dede803" name="ex" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="0cce918e-47de-4db0-bc4c-39c48dede803" name="ex" url="http://wiris.724egitim.com/yeni_insta/">
+        <fileTransfer host="185.29.120.83" port="22" rootFolder="/home/wiris724egitim/www/yeni_insta" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
